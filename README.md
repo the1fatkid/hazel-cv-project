@@ -36,7 +36,7 @@ To get a local copy of the project up and running, follow these steps:
     ```bash
     cd hazel-cv-project
     ```
-To view the blog page, simply open the index.html file in any web browser.    
+To view the webpage, simply open the index.html file in any web browser.    
 
 ## Course Credit
 This project was developed as part of the "HTML & CSS Bootcamp" course by Colt Steele on Udemy.
